@@ -1,0 +1,13 @@
+name = "RavenHamsters Create Pack"
+author = "RavenHamster"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "30b715ca4d2639ff9343d3a5640bf5e82924693e8a42edf3b229bcfd9abf3879"
+
+[versions]
+forge = "47.4.9"
+minecraft = "1.20.1"
