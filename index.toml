@@ -10,6 +10,11 @@ hash = "3d9599c451cf6d6acf3bc99a782286ea3325e11555f1055af7c59bf626351169"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
@@ -45,6 +50,11 @@ hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "b70343a7d639e0bf6393ddae6ad80a439c1d3d082b3d561e1a323082cab01a10"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
@@ -62,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
+file = "mods/crafting-recipes-for-create.pw.toml"
+hash = "4d50a0d112301450f14a9e41e1c3591e2a0213dd66d1eb47dfb61ba5823ed4a0"
 metafile = true
 
 [[files]]
@@ -127,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/friendly-griefing.pw.toml"
 hash = "3ce2836fdbded99c6362f7263c94edc63169e83d2b0e36ba2d098d6947eeda1f"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
 metafile = true
 
 [[files]]
@@ -222,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "75a60e6b443b351b7a4a78ffce7c71e44b3e20ca10c374aea1de516c785d6e2d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
 metafile = true
 
 [[files]]
