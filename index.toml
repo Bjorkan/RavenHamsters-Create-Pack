@@ -160,6 +160,11 @@ hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "f8b4210300a8f2ce76a2329de37f2e671ac5dfeca17018528cadb333b019a814"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
@@ -187,6 +192,21 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "63504f8d1db513fa1a78c214d824be5a9ddba732850a461cae0bb1029b8462b7"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "667dacb1193a887bc068a3c819839e06c82959d2ba61c85736296420ed334579"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "ed55a23218dd66d083042069a68ecf7beebb374be76b79786f39b0ebeba8fc53"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
